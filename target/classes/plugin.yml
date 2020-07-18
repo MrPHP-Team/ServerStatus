@@ -1,0 +1,8 @@
+name: StatusServer
+version: 1.0-SNAPSHOT
+main: ru.markiz.StatusServer
+authors: [Markiz]
+description: status for your server
+commands:
+  exsitestatus:
+    aliases: [status, exstatus]
